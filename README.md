@@ -1,6 +1,7 @@
 # Path-Planning-with-Waypoint-Recognition
-Demo.exe is the demo
-the output is:
+Demo.exe is the demo.
+
+The output is:
 
 * a map of the paths, waypoints and heatmap
   * values of the heatmap are megenta
